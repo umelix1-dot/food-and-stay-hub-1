@@ -1,0 +1,10 @@
+{
+  "name": "FOOD AND STAY HUB",
+  "description": "A location-based food and accommodation discovery application that helps users find restaurants and hotels according to their location, preferred cuisine/country style, and travel destination using Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
